@@ -1,0 +1,40 @@
+# Python / Django
+__pycache__/
+*.py[cod]
+*.sqlite3
+db.sqlite3
+*.log
+.env
+.venv/
+venv/
+env/
+backend/staticfiles/
+backend/media/
+*.egg-info/
+.pytest_cache/
+
+# Next.js / Node
+node_modules/
+frontend/.next/
+frontend/out/
+frontend/.env.local
+frontend/.env*.local
+*.tsbuildinfo
+next-env.d.ts
+
+# Archives
+*.zip
+*.tar
+*.tar.gz
+*.rar
+*.7z
+
+# OS / Editor
+.DS_Store
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Misc
+*.pem
